@@ -1,0 +1,16 @@
+{
+  "name": "@xunmi/windows-terminal-config",
+  "version": "1.0.0",
+  "description": "My personal windows terminal config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunmi1/windows-terminal-config.git"
+  },
+  "author": "xunmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xunmi1/windows-terminal-config/issues"
+  },
+  "homepage": "https://github.com/xunmi1/windows-terminal-config#readme"
+}

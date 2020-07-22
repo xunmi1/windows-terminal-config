@@ -1,0 +1,61 @@
+{
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+
+  "copyOnSelect": false,
+  "copyFormatting": false,
+  "profiles": {
+    "defaults": {
+      "hidden": false,
+      "fontFace": "Fira Code",
+      "colorScheme": "Ant Design Dark",
+      "useAcrylic": true,
+      "acrylicOpacity": 0.85
+    }
+  },
+
+  "schemes": [
+    {
+      "name": "Material Ocean",
+      "black": "#546e7a",
+      "red": "#ff5370",
+      "green": "#c3e88d",
+      "yellow": "#ffcb6b",
+      "blue": "#82aaff",
+      "purple": "#c792ea",
+      "cyan": "#89ddff",
+      "white": "#ffffff",
+      "brightBlack": "#546e7a",
+      "brightRed": "#ff5370",
+      "brightGreen": "#c3e88d",
+      "brightYellow": "#ffcb6b",
+      "brightBlue": "#82aaff",
+      "brightPurple": "#c792ea",
+      "brightCyan": "#89ddff",
+      "brightWhite": "#ffffff",
+      "background": "#0f111a",
+      "foreground": "#8f93a2"
+    },
+    {
+      "name": "Ant Design Dark",
+      "black": "#2c2c2c",
+      "red": "#d32029",
+      "green": "#49aa19",
+      "yellow": "#d8bd14",
+      "blue": "#177ddc",
+      "purple": "#642ab5",
+      "cyan": "#13a8a8",
+      "white": "#e8e8e8",
+      "brightBlack": "#454545",
+      "brightRed": "#f37370",
+      "brightGreen": "#8fd460",
+      "brightYellow": "#f3ea62",
+      "brightBlue": "#65b7f3",
+      "brightPurple": "#ab7ae0",
+      "brightCyan": "#58d1c9",
+      "brightWhite": "#f3f3f3",
+      "background": "#141414",
+      "foreground": "#dcdcdc",
+      "selectionBackground": "#177ddc"
+    }
+  ]
+}
